@@ -48,7 +48,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://www.pngarts.com/files/1/Summer-Clothes-For-Women-PNG-High-Quality-Image.png",
     },
     {
       id:3,
@@ -68,7 +68,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.pngarts.com/files/1/Formal-Suit-For-Men-Free-PNG-Image.png",
     },
     {
       id:8,
