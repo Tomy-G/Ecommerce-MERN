@@ -1,3 +1,5 @@
+const { verify } = require("jsonwebtoken");
+
 const router = require("express").Router();
 
 /*  BASIC EXAMPLES 
@@ -13,6 +15,12 @@ router.post("/userposttest", (req,res)=>{
 });
 
 */
+
+router.put("/:id", verifyToken, (req, res)=>{
+    if(req.user.id === req.params.id || req.user.isAdmin){
+        
+    }
+})
 
 
 
